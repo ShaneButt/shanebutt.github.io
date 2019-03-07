@@ -65,7 +65,7 @@
  }
 
  .social-icons a:hover{
- background-color: #07baff;
+ background-color: #e91d63;
  }
 
  .dev-icons{
@@ -172,17 +172,17 @@
  }
 
  .bg-primary{
- background-color: #07baff!important;
+ background-color: #e91d63!important;
  }
 
  .text-primary{
- color: #07baff!important;
+ color: #e91d63!important;
  }
 
  a{
- color: #07baff;
+ color: #e91d63;
  }
 
  a:active,a:focus,a:hover{
- color:#824027
+ color: #07baff;
  }
